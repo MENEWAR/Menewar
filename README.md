@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, My name is Nipun Menewar<br>I am currently intern at CRISIL Limited in the Corporate <br>Technology Department
+Hello, My name is Nipun Menewar<br>I am currently Software Engineer at Viral Technologies <br>
 
 
 # 💻 Tech Stack:
